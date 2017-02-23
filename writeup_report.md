@@ -18,10 +18,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[brightness]: ./images/brightness.png "Brightness augmentation"
-[translation]: ./images/translation.png "Translation augmentation"
-[architecture]: ./images/architecture.png "Architecture Image"
-[preprocessed]: ./images/preprocessed.png "Preprocessed Image"
+[brightness]: brightness.png "Brightness augmentation"
+[translation]: translation.png "Translation augmentation"
+[architecture]: architecture.png "Architecture Image"
+[preprocessed]: preprocessed.png "Preprocessed Image"
 [image5]: ./images/placeholder_small.png "Recovery Image"
 [image6]: ./images/placeholder_small.png "Normal Image"
 [image7]: ./images/placeholder_small.png "Flipped Image"
